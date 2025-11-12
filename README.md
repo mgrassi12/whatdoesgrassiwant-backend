@@ -104,3 +104,4 @@ func azure functionapp publish func-whatdoesgrassiwant-api --build remote
 - Setup a separate subscription to use as a nonprod environment. Have a nonprod -> prod flow managed by PRs that require passing tests to merge. 
 - Create a proper write endpoint for the SQL db. 
 - Move to Flex Consumption plan when Linux Consumption is closer to EOL.
+- Make a high level architecture diagram for this readme.
