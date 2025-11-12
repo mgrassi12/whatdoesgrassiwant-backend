@@ -1,6 +1,6 @@
 # What Does Grassi Want? - Backend Repo
 
-![Screenshot of the What Does Grassi Want website.](whatdoesgrassiwant-frontend\what-does-grassi-want.png)
+![Screenshot of the What Does Grassi Want website.](what-does-grassi-want.png)
 
 Back-end for [whatdoesgrassiwant.com](https://www.whatdoesgrassiwant.com), a wishlist site built as a spin on the Cloud Resume Challenge. 
 
